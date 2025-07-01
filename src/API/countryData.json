@@ -1,0 +1,373 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "Null",
+    "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+  },
+  {
+    "id": 2,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters."
+  },
+  {
+    "id": 3,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104258327,
+    "interestingFact": "The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 1324216107,
+    "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+  },
+  {
+    "id": 9,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 626642496,
+    "interestingFact": "Germany is known for its engineering and automotive industry."
+  },
+  {
+    "id": 10,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 1461936623,
+    "interestingFact": "Argentina is the birthplace of the tango dance."
+  },
+  {
+    "id": 11,
+    "countryName": "United States",
+    "capital": "Washington D.C.",
+    "population": 627566627,
+    "interestingFact": "The U.S. is home to the world's largest economy."
+  },
+  {
+    "id": 12,
+    "countryName": "United States",
+    "capital": "Washington D.C.",
+    "population": 105219283,
+    "interestingFact": "The U.S. is home to the world's largest economy."
+  },
+  {
+    "id": 13,
+    "countryName": "Thailand",
+    "capital": "Bangkok",
+    "population": 229847233,
+    "interestingFact": "Thailand is the only Southeast Asian country never colonized by Europe."
+  },
+  {
+    "id": 14,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 933828652,
+    "interestingFact": "South Africa has three capital cities."
+  },
+  {
+    "id": 15,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 552178088,
+    "interestingFact": "India has the second-largest population in the world."
+  },
+  {
+    "id": 16,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 694773484,
+    "interestingFact": "Argentina is the birthplace of the tango dance."
+  },
+  {
+    "id": 17,
+    "countryName": "Thailand",
+    "capital": "Bangkok",
+    "population": 773444379,
+    "interestingFact": "Thailand is the only Southeast Asian country never colonized by Europe."
+  },
+  {
+    "id": 18,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 307484320,
+    "interestingFact": "Rome is home to the Vatican City."
+  },
+  {
+    "id": 19,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 793409000,
+    "interestingFact": "India has the second-largest population in the world."
+  },
+  {
+    "id": 20,
+    "countryName": "United States",
+    "capital": "Washington D.C.",
+    "population": 712074063,
+    "interestingFact": "The U.S. is home to the world's largest economy."
+  },
+  {
+    "id": 21,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 952325981,
+    "interestingFact": "Canada has the longest coastline of any country."
+  },
+  {
+    "id": 22,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 98736178,
+    "interestingFact": "Rome is home to the Vatican City."
+  },
+  {
+    "id": 23,
+    "countryName": "United States",
+    "capital": "Washington D.C.",
+    "population": 428792510,
+    "interestingFact": "The U.S. is home to the world's largest economy."
+  },
+  {
+    "id": 24,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 76625152,
+    "interestingFact": "Canada has the longest coastline of any country."
+  },
+  {
+    "id": 25,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 1405806570,
+    "interestingFact": "Rome is home to the Vatican City."
+  },
+  {
+    "id": 26,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 329286007,
+    "interestingFact": "Japan is made up of over 6,800 islands."
+  },
+  {
+    "id": 27,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 643860885,
+    "interestingFact": "Japan is made up of over 6,800 islands."
+  },
+  {
+    "id": 28,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 248652661,
+    "interestingFact": "Canada has the longest coastline of any country."
+  },
+  {
+    "id": 29,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 765906267,
+    "interestingFact": "Canada has the longest coastline of any country."
+  },
+  {
+    "id": 30,
+    "countryName": "United States",
+    "capital": "Washington D.C.",
+    "population": 1382519995,
+    "interestingFact": "The U.S. is home to the world's largest economy."
+  },
+  {
+    "id": 31,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 504610825,
+    "interestingFact": "Japan is made up of over 6,800 islands."
+  },
+  {
+    "id": 32,
+    "countryName": "United States",
+    "capital": "Washington D.C.",
+    "population": 786892364,
+    "interestingFact": "The U.S. is home to the world's largest economy."
+  },
+  {
+    "id": 33,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 181571545,
+    "interestingFact": "Rome is home to the Vatican City."
+  },
+  {
+    "id": 34,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 1475571525,
+    "interestingFact": "Rome is home to the Vatican City."
+  },
+  {
+    "id": 35,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 1041413607,
+    "interestingFact": "Mexico introduced chocolate, chilies, and corn to the world."
+  },
+  {
+    "id": 36,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 20327070,
+    "interestingFact": "South Africa has three capital cities."
+  },
+  {
+    "id": 37,
+    "countryName": "United States",
+    "capital": "Washington D.C.",
+    "population": 62448169,
+    "interestingFact": "The U.S. is home to the world's largest economy."
+  },
+  {
+    "id": 38,
+    "countryName": "United States",
+    "capital": "Washington D.C.",
+    "population": 225562100,
+    "interestingFact": "The U.S. is home to the world's largest economy."
+  },
+  {
+    "id": 39,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 1096818827,
+    "interestingFact": "Argentina is the birthplace of the tango dance."
+  },
+  {
+    "id": 40,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 171883229,
+    "interestingFact": "Mexico introduced chocolate, chilies, and corn to the world."
+  },
+  {
+    "id": 41,
+    "countryName": "Thailand",
+    "capital": "Bangkok",
+    "population": 1281743675,
+    "interestingFact": "Thailand is the only Southeast Asian country never colonized by Europe."
+  },
+  {
+    "id": 42,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 596673883,
+    "interestingFact": "Argentina is the birthplace of the tango dance."
+  },
+  {
+    "id": 43,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 1051740747,
+    "interestingFact": "Germany is known for its engineering and automotive industry."
+  },
+  {
+    "id": 44,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 394487668,
+    "interestingFact": "Rome is home to the Vatican City."
+  },
+  {
+    "id": 45,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 913019546,
+    "interestingFact": "Rome is home to the Vatican City."
+  },
+  {
+    "id": 46,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 721057403,
+    "interestingFact": "Argentina is the birthplace of the tango dance."
+  },
+  {
+    "id": 47,
+    "countryName": "Thailand",
+    "capital": "Bangkok",
+    "population": 291731544,
+    "interestingFact": "Thailand is the only Southeast Asian country never colonized by Europe."
+  },
+  {
+    "id": 48,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 974552375,
+    "interestingFact": "Argentina is the birthplace of the tango dance."
+  },
+  {
+    "id": 49,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 515135065,
+    "interestingFact": "India has the second-largest population in the world."
+  },
+  {
+    "id": 50,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 385087842,
+    "interestingFact": "Rome is home to the Vatican City."
+  },
+  {
+    "id": 51,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 404763810,
+    "interestingFact": "Mexico introduced chocolate, chilies, and corn to the world."
+  },
+  {
+    "id": 52,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 949531494,
+    "interestingFact": "Canada has the longest coastline of any country."
+  },
+  {
+    "id": 53,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 1193753448,
+    "interestingFact": "Argentina is the birthplace of the tango dance."
+  }
+]
