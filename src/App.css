@@ -468,12 +468,30 @@ country Card
   }
 }
 
+@media (max-width: 768px) {
+  .section-searchFilter {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 1.6rem;
+    padding: 1.2rem;
+  }
+
+  .section-searchFilter input,
+  .section-searchFilter .select-section,
+  .section-searchFilter button {
+    width: 100%;
+  }
+}
+
+
 .section-searchFilter {
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin-bottom: 3.2rem;
+
+ 
 
   & .container-card {
     padding: 0.8rem 2.4rem;

@@ -46,7 +46,7 @@ export const SearchFilter = ({
 
             <div>
                 <select
-                className="select-section"
+                className="select-section sear"
                 value={filter}
                 onChange={handleSelectChange}
                 >
